@@ -18,7 +18,7 @@ Companies are adding AI to everything, but very few people know how to secure it
 * Core security concepts — https://tryhackme.com/path/outline/presecurity (free tier)
 
 **2. AI basics (2–3 weeks)**
-* What LLMs actually are — https://www.linkedin.com/learning/paths/… → better: https://huggingface.co/learn/nlp-course/chapter1/1
+* What LLMs actually are — https://huggingface.co/learn/nlp-course/chapter1/1
 * Prompting & how models fail — https://learn.deeplearning.io/courses (free short courses)
 
 **3. AI attacks (3–4 weeks)**
