@@ -13,24 +13,23 @@ Companies are adding AI to everything, but very few people know how to secure it
 ## 🗺️ Learning path (in order)
 
 **1. Foundations (2–3 weeks)**
-* Networking + Linux basics — https://linuxjourney.com
+* Networking + Linux basics — https://overthewire.org/wargames/bandit/ (learn by doing)
 * Web basics — https://developer.mozilla.org/en-US/docs/Learn
 * Core security concepts — https://tryhackme.com/path/outline/presecurity (free tier)
 
 **2. AI basics (2–3 weeks)**
 * What LLMs actually are — https://huggingface.co/learn/nlp-course/chapter1/1
-* Prompting & how models fail — https://learn.deeplearning.io/courses (free short courses)
+* Prompting & how models fail — https://www.deeplearning.ai/short-courses/ (free short courses)
 
 **3. AI attacks (3–4 weeks)**
 * OWASP Top 10 for LLM Applications — https://genai.owasp.org
 * MITRE ATLAS (adversarial ML tactics) — https://atlas.mitre.org
-* Prompt injection explained — https://portswigger.net/daily-swig/prompt-injection
-* Practice prompts safely — https://glenwehrly.gosecure.ai/prompt-injection/
+* Prompt injection explained — https://simonwillison.net/tags/prompt-injection/ (best ongoing coverage)
 
 **4. Defense (3–4 weeks)**
 * OWASP Agentic AI / LLM security guidance — https://genai.owasp.org/llm-top-10/
 * NIST AI Risk Management Framework — https://www.nist.gov/itl/ai-risk-management-framework
-* AI red-teaming basics — https://aival.uncharted.ai / https://crfm.stanford.edu/aisb/
+* AI red-teaming basics — https://crfm.stanford.edu/ (Stanford Center for Research on Foundation Models)
 
 **5. Hands-on practice (ongoing)**
 * Free security labs — https://tryhackme.com and https://www.hackthebox.com (free tiers)
@@ -46,7 +45,7 @@ Companies are adding AI to everything, but very few people know how to secure it
 
 ## 👥 Communities
 
-* OWASP GenAI Security Project — https://owasp.org/www-project-genai/
+* OWASP GenAI Security Project — https://genai.owasp.org
 * AI Village (DEF CON) — https://aivillage.org
 * r/LLMDevs, r/cybersecurity — learn from real discussions
 
